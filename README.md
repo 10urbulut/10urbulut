@@ -9,4 +9,4 @@ Hi 👋 I'm Onur
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10urbulut&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10urbulut&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/kyronsatt/github-readme-stats)
